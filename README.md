@@ -32,5 +32,5 @@ no stable third wine class exists (650 of 6,497 samples fall in a "middle" band)
 
 ## Reproduce
 
-Download `wines.csv`, open `PWI_GROUP1.ipynb` of the relevant exercise notebook
-(`PW1_E1_GROUP1.ipynb`, `PW1_E2_GROUP1.ipynb`) in Jupyter/Colab, and run cells top to bottom.
+Download wines.csv, open the relevant exercise notebook (PW1_E1_GROUP1.ipynb or
+PW1_E2_GROUP1.ipynb) in Jupyter/Colab, and run cells top to bottom.
